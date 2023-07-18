@@ -1,0 +1,11 @@
+Your diretory is cat-react:
+
+**First, change your connection string into ".env" file
+
+1- run "npm install"
+2- seed database run "node backend/util/seed.js" (only once)
+3- run backend by typing "node backend/server.js"
+
+4- Open another terminal in the root project. now go to frontend "cd frontend"
+5- type "npm install"
+6- run frontend "npm start"
